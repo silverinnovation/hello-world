@@ -6,5 +6,7 @@
  <body>
  <img src="img/logo.png" />
  <?php echo '<p>Hello World</p>'; ?> 
+  
+  More stuff here
  </body>
 </html>
